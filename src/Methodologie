@@ -1,0 +1,3 @@
+Je commence par la création des composants (vide)
+J'importe les composants dans le App puis importe {BrowserRouter}
+Je place le Router avec la Navbar et le Floatingcart à l'intérieur puis je rajoute un Switch avec l'exact path et le composant associé
